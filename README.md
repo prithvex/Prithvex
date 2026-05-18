@@ -1,72 +1,171 @@
-🚀 Hi, it's Prithvex
+# 🚀 Hi, it's Prithvex
 
-Full Stack Developer • App Developer • AI/ML Enthusiast  
-Competitive Programmer • Cybersecurity Researcher  
+**AI/ML Engineer • Quant Developer • Full Stack Developer**
+Building intelligent systems, scalable products, and data-driven solutions.
 
-Building. Breaking. Learning. Scaling.
+---
 
-🧠 About Me
-💻 Full Stack Web & App Developer
-🤖 Exploring AI/ML & intelligent systems
-🧩 Competitive Programmer (problem-solving mindset)
-🔐 Cybersecurity & Ethical Hacking enthusiast
-⚡ “Vibe coder” — I build fast, learn faster
-🧍 Solo builder with an obsession for clean systems
+# 🧠 About Me
 
-⚒️ Tech Stack
-🌐 Web Development
-Frontend: HTML, CSS, JavaScript, React, Next.js
-Backend: Node.js, Express, Django / Flask
-Databases: MongoDB, MySQL, PostgreSQL
+💻 Full Stack Developer with a strong systems mindset
+🤖 AI/ML enthusiast focused on real-world intelligent applications
+📈 Quant Developer exploring algorithmic trading & financial modeling
+🧩 Competitive Programmer with strong DSA/problem-solving skills
+⚡ Fast builder — prototype quickly, optimize relentlessly
+🧠 Passionate about automation, scalability, and high-performance systems
+🧍 Solo builder obsessed with clean architecture & execution speed
 
-📱 App Development
-Flutter / React Native / Native (Android)
+---
 
-🤖 AI / ML
-Python, TensorFlow, PyTorch
-Data Analysis, Model Building
+# ⚒️ Tech Stack
 
-🔐 Cybersecurity
-Web Security, Penetration Testing
-Network Basics, Exploit Research
-Tools: Burp Suite, Nmap, Metasploit
+## 🤖 AI / ML & Data Science
 
-🧠 Competitive Programming
-C++ / Python
-Data Structures & Algorithms
-Platforms: Codeforces, LeetCode, CodeChef
+* Python
+* TensorFlow / PyTorch
+* Scikit-learn
+* Pandas / NumPy
+* Data Analysis & Visualization
+* Model Training & Optimization
+* Deep Learning & Neural Networks
+* NLP & Intelligent Systems
 
-🧰 Tools & Environment
-OS: Linux 🐧 | Windows  
-Editor: VS Code | Neovim  
-Workflow: Git + GitHub  
-Mindset: Build → Break → Fix → Scale
-📊 GitHub Stats
+---
 
-🌍 Connect With Me
-💼 LinkedIn: https://linkedin.com/in/YOUR_ID
-🧠 LeetCode: https://leetcode.com/YOUR_ID
-⚔️ Codeforces: https://codeforces.com/profile/YOUR_ID
-🍳 CodeChef: https://codechef.com/users/YOUR_ID
-🐦 Twitter / X: https://twitter.com/YOUR_ID
-🌐 Portfolio: https://yourwebsite.com
+## 📈 Quant Development
 
-🧩 Projects
-🔹 AI Projects
-🔹 Full Stack Apps
-🔹 Security Tools
-🔹 Automation Scripts
-🔹 Competitive Programming Solutions
+* Python / C++
+* Statistical Modeling
+* Algorithmic Trading
+* Backtesting Systems
+* Market Data Analysis
+* Financial Analytics
+* Risk & Performance Metrics
+* Strategy Automation
 
-Check pinned repositories below 👇
+---
 
-⚡ Philosophy
-Code like an engineer.
-Think like a hacker.
-Move like a startup.
-🧠 Motto
+## 🌐 Full Stack Development
 
-“I don’t just use technology — I understand, exploit, and build it.”
+### Frontend
 
-⚠️ Disclaimer
-All cybersecurity knowledge is used for ethical purposes only.
+* HTML, CSS, JavaScript
+* React.js
+* Next.js
+* Tailwind CSS
+
+### Backend
+
+* Node.js
+* Express.js
+* Django / Flask
+* REST APIs
+
+### Databases
+
+* MongoDB
+* PostgreSQL
+* MySQL
+
+---
+
+## 📱 App Development
+
+* Flutter
+* React Native
+* Android Development
+
+---
+
+## 🧠 Competitive Programming
+
+* C++ / Python
+* Data Structures & Algorithms
+* Problem Solving & Optimization
+
+### Platforms
+
+* Codeforces
+* LeetCode
+* CodeChef
+
+---
+
+# 🧰 Tools & Environment
+
+* OS: Linux 🐧 | Windows
+* Editor: VS Code | Neovim
+* Workflow: Git + GitHub
+* Deployment: Docker / Vercel / Cloud Platforms
+
+### Mindset
+
+**Build → Analyze → Optimize → Scale**
+
+---
+
+# 📊 GitHub Stats
+
+<!-- Add GitHub stats cards here -->
+
+---
+
+# 🌍 Connect With Me
+
+💼 LinkedIn: `https://linkedin.com/in/YOUR_ID`
+🧠 LeetCode: `https://leetcode.com/YOUR_ID`
+⚔️ Codeforces: `https://codeforces.com/profile/YOUR_ID`
+🍳 CodeChef: `https://codechef.com/users/YOUR_ID`
+🐦 Twitter / X: `https://twitter.com/YOUR_ID`
+🌐 Portfolio: `https://yourwebsite.com`
+
+---
+
+# 🧩 Projects
+
+## 🤖 AI / ML Projects
+
+* Intelligent Applications
+* Deep Learning Models
+* NLP Systems
+* AI Automation Tools
+
+## 📈 Quant & Finance Projects
+
+* Trading Bots
+* Backtesting Engines
+* Financial Dashboards
+* Market Prediction Models
+
+## 🌐 Full Stack Applications
+
+* SaaS Platforms
+* Real-Time Applications
+* API Systems
+* Scalable Web Apps
+
+## ⚙️ Automation & Tools
+
+* Productivity Scripts
+* Data Pipelines
+* Dev Utilities
+
+---
+
+# ⚡ Philosophy
+
+**Code with precision.**
+**Think with data.**
+**Build for scale.**
+
+---
+
+# 🧠 Motto
+
+> “I don’t just build software — I engineer intelligent systems that learn, adapt, and perform.”
+
+---
+
+# ⚠️ Disclaimer
+
+All projects and research are developed for educational, ethical, and professional purposes only.
