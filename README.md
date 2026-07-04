@@ -2,5 +2,5 @@
 404 sleep not found
 
 <p align="center">
-<img src="oreki houtarou GIF.gif" width="900"/>
+<img src="oreki houtarou GIF.gif" width="100%"/>
 </p>
