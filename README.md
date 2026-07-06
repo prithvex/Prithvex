@@ -1,6 +1,6 @@
 # It's Prithvex
-404 sleep not found
+I am not done yet!
 
 <p align="center">
-<img src="oreki Jinwoo GIF.gif" width="100%"/>
+<img src="Shhh GIF.gif" width="80%"/>
 </p>
