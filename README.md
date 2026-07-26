@@ -1,44 +1,42 @@
 
 <div align="center">
 
-# 👑 SYSTEM ACTIVATED
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:050505,40:1E1B4B,70:4338CA,100:7C3AED&text=Prithviraj%20Shinde&fontColor=ffffff&fontSize=55&animation=fadeIn&desc=Software%20Engineer%20•%20Full%20Stack%20Developer%20•%20AI%20Enthusiast&descAlignY=70"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=900&lines=Prithvex.;Software+Engineer;Full+Stack+Developer;AI+Enthusiast;Building+Scalable+Applications;Always+Leveling+Up..." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=SYSTEM+ACTIVATED...;Prithvex.;Full+Stack+Software+Engineer;Building+Scalable+Applications;AI+Engineer+in+Progress;Always+Leveling+Up"/>
 
 <br>
 
-> ### ⚔️ **"Arise."**
+### ⚔️ 「 Giving up isn't in my source code. 」
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050505,35:1E1B4B,65:4338CA,100:7C3AED&text=Prithviraj%20Shinde&fontColor=ffffff&fontSize=55&animation=fadeIn"/>
 
 <p>
-
 <a href="https://github.com/prithvex">
-<img src="https://img.shields.io/github/followers/prithvex?label=Followers&style=for-the-badge&color=7C3AED"/>
+<img src="https://img.shields.io/github/followers/prithvex?style=for-the-badge&logo=github&label=Followers&color=7C3AED"/>
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=prithvex&style=for-the-badge&color=7C3AED"/>
-
 </p>
 
 </div>
 
 ---
 
+<div align="center">
+<img src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAd/coding.gif" width="900"/>
+</div>
+
 # ⚔️ PLAYER PROFILE
 
 ```yaml
-Name        : Prithvex.
-Class       : Full Stack Software Engineer
+Name        : Prithviraj Shinde
+Username    : prithvex
+Role        : Full Stack Software Engineer
 Rank        : SSS
 Guild       : Open Source
-Speciality  : Scalable Web Applications
 Current Arc : AI Engineering
 Status      : Online 🟢
 ```
-<div align="center">
-<img src="https://raw.githubusercontent.com/prithvex/prithvex/output/github-contribution-grid-snake-dark.svg"/> 
-</div>
 
 ---
 
@@ -55,19 +53,21 @@ Status      : Online 🟢
 
 🤖 AI               ███████████░░
 
-☁ Cloud             ██████████░░░
+☁️ Cloud            ███████████░░
 
-🐞 Debugging         █████████████
+🐳 DevOps           █████████░░░░
+
+🐞 Debugging        █████████████
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-MISSION
+Current Mission
 
-✓ Build scalable software
+✓ Build scalable applications
 
-✓ Build AI powered products
+✓ Build AI-powered products
 
-✓ Learn something new every day
+✓ Learn something every day
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
@@ -76,73 +76,75 @@ MISSION
 
 # 💻 ABOUT ME
 
-```javascript
+```typescript
 const prithvi = {
 
-    role: "Full Stack Software Engineer",
+  role: "Full Stack Software Engineer",
 
-    languages: [
-        "JavaScript",
-        "TypeScript",
-        "Python",
-        "Go",
-    ],
+  code: [
+    "JavaScript",
+    "TypeScript",
+    "Python",
+    "Go"
+  ],
 
-    frontend: [
-        "React",
-        "Next.js",
-        "Tailwind CSS",
-        "Redux",
-        "Material UI",
-        "Bootstrap",
-        "HTML5",
-        "CSS3"
-    ],
+  frontend: [
+    "React",
+    "Next.js",
+    "Redux",
+    "Tailwind CSS",
+    "Material UI",
+    "Bootstrap",
+    "HTML5",
+    "CSS3",
+    "Vite"
+  ],
 
-    backend: [
-        "Node.js",
-        "Express.js",
-        "Python",
-        "Go",
-        "REST APIs",
-        "WebSockets"
-    ],
+  backend: [
+    "Node.js",
+    "Express.js",
+    "Python",
+    "Go",
+    "REST APIs",
+    "WebSockets"
+  ],
 
-    database: [
-        "MongoDB",
-        "PostgreSQL",
-        "MySQL",
-        "Redis",
-        "Firebase",
-        "Supabase"
-    ],
+  databases: [
+    "MongoDB",
+    "PostgreSQL",
+    "MySQL",
+    "Redis",
+    "Firebase",
+    "Supabase"
+  ],
 
-    cloud: [
-        "Docker",
-        "AWS",
-        "Linux",
-        "GitHub Actions",
-        "Vercel",
-        "Netlify",
-        "Nginx"
-    ],
+  cloud: [
+    "Docker",
+    "AWS",
+    "Linux",
+    "GitHub Actions",
+    "Nginx",
+    "Vercel"
+  ],
 
-    ai: [
-        "OpenAI",
-        "LangChain",
-        "MCP",
-        "RAG",
-        "Vector Databases",
-        "AI Agents"
-    ],
+  ai: [
+    "OpenAI",
+    "LangChain",
+    "RAG",
+    "MCP",
+    "AI Agents",
+    "Vector Databases"
+  ],
 
-    currentlyLearning: [
-        "System Design",
-        "Distributed Systems",
-        "Kubernetes",
-        "Devops",
-        "GenAI"
-    ]
+  currentlyLearning: [
+    "System Design",
+    "Distributed Systems",
+    "Kubernetes",
+    "DevOps",
+    "Generative AI"
+  ],
+
+  motto: "Keep Leveling Up."
 }
 ```
 
@@ -152,31 +154,31 @@ const prithvi = {
 
 <div align="center">
 
-### Frontend
+### 🎨 Frontend
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,vite,bootstrap,materialui"/>
 
 <br><br>
 
-### Backend
+### ⚙️ Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,go,java,spring"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,go"/>
 
 <br><br>
 
-### Database
+### 🗄 Database
 
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase,supabase"/>
 
 <br><br>
 
-### DevOps & Cloud
+### ☁️ Cloud & DevOps
 
-<img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github,githubactions,vercel,netlify,nginx"/>
+<img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github,githubactions,nginx,vercel"/>
 
 <br><br>
 
-### Tools
+### 🛠 Tools
 
 <img src="https://skillicons.dev/icons?i=vscode,postman,figma"/>
 
@@ -184,71 +186,93 @@ const prithvi = {
 
 ---
 
-# ⚔️ FEATURED DUNGEONS
+# 📊 HUNTER STATISTICS
 
-### 🤖 AI Applications
+<div align="center">
 
-Building intelligent applications powered by LLMs and AI Agents.
+<img height="180" src="https://streak-stats.demolab.com?user=prithvex&theme=tokyonight&hide_border=true"/>
 
----
+</div>
 
-### 🌐 Full Stack Platforms
-
-Production-ready applications using modern web technologies.
+<br>
 
 ---
 
-### ☁️ Cloud Native Projects
+---
 
-Scalable deployments with Docker, AWS and CI/CD pipelines.
+# 📈 EXPERIENCE GROWTH
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prithvex&theme=tokyo-night&hide_border=true"/>
+
+</div>
 
 ---
 
-### 🚀 Open Source
-
-Building tools that help developers ship better software.
 
 ---
+
+# 🚀 FEATURED DUNGEONS
 
 ---
 
 # 🎯 CURRENT OBJECTIVES
 
 ```text
-🎯 Build impactful AI products
+🎯 Build Production AI Applications
 
 📚 Master System Design
 
-🚀 Contribute to Open Source
+☁️ Improve Cloud & DevOps Skills
 
-☁️ Scale Cloud Infrastructure
+🚀 Contribute More to Open Source
 
-⚡ Keep leveling up...
+⚡ Build High-Performance Backend Systems
+
+👑 Keep Leveling Up...
 ```
 
 ---
 
-# 💡 DEVELOPER PHILOSOPHY
+# 📚 CURRENT TECH JOURNEY
 
-> **"Every bug is experience. Every project is another dungeon. Every deployment is a new adventure."**
+| Focus | Progress |
+|-------|----------|
+| Full Stack Development | ██████████ 100% |
+| Backend Engineering | ██████████ 100% |
+| Cloud Computing | ████████░░ 80% |
+| DevOps | ███████░░░ 70% |
+| AI Engineering | ████████░░ 80% |
+| System Design | ███████░░░ 70% |
 
 ---
 
 # ☕ FUN FACTS
 
-- 🌙 Most productive during late-night coding sessions.
-- 🤖 Passionate about AI and automation.
-- ⚡ I enjoy solving challenging backend problems.
-- 🚀 Always exploring new technologies.
-- 🎮 Coffee + Music + Code = Perfect combo.
+- 🌙 Night Owl Developer
+- ⚡ Coffee + Music = Productivity
+- 🤖 Passionate about AI Engineering
+- 🚀 Love Building Scalable Products
+- 🐧 Linux Enthusiast
+- 💡 Always Learning Something New
+
+---
+
+# 💭 DEVELOPER PHILOSOPHY
+
+> **"Every bug defeated is experience gained. Every project completed is another dungeon conquered."**
 
 ---
 
 <div align="center">
 
-## 👑 ARISE.
+## 👑 「 ARISE. 」
 
-*"The stronger I become, the more I can build."*
+*"Success isn't reached in a single level. It's earned one commit at a time."*
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+<br><br>
 
 </div>
-````
